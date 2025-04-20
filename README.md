@@ -15,10 +15,10 @@
 ---
 ## 🚀 Projects 
 - **[CarHaven](https://github.com/MohamedKhalilAssa/CarHaven-A-Car-Dealing-Website)** \
-A car dealing web app built with Laravel & Vue.js featuring search, filtering, messaging, and a powerful admin dashboard. Final project for my Associate's Degree.
+A car dealing web app built with Laravel & Vue.js featuring search, filtering, messaging, and a powerful admin dashboard.
 
 - **Black Pearl** \
-A full-featured restaurant website built in Laravel allowing table reservations, order placements, and full admin management. Developed during my technical internship.
+A full-featured restaurant website built in Laravel allowing table reservations, order placements, and full admin management.
 
 - **PhD Handling System (In Progress)** \
 A React + Spring Boot web app to manage PhD applications and lifecycle at INPT. Includes role-based access, document tracking, and notifications.
