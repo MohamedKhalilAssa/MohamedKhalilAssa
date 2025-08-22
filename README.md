@@ -123,7 +123,7 @@
 `Laravel` `MySQL` `PHP`  
 *Features: Table reservations, order management, complete admin panel*
 
-### 🎓 PhD Handling System *(In Progress)*
+### 🎓 PhD Handling System 
 **Academic lifecycle management system**  
 `React` `Spring Boot` `PostgreSQL`  
 *Features: Role-based access control, document tracking, automated notifications*
